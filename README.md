@@ -9,9 +9,9 @@
 arfantilanan/arfantilanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### 📆 Peak Contribution Months By Year
+### 📊 Key Contribution Milestones
+![High Activity Months](https://shields.io)
+![Most Active Period](https://shields.io_–_Sept-orange?style=flat-square)
 
-| Year | Highly Active Months |
-| :--- | :--- |
-| **2019** | ![July](https://shields.io) ![August](https://shields.io) ![September](https://shields.io) |
+* **Peak Months:** July, August, and September 2019 stand out with sustained dark-green, high-density contribution streaks.
 
